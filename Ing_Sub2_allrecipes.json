@@ -1,0 +1,2436 @@
+[
+    {
+        "Ingredient": "Allspice",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "ingredient_name": "cinnamon&&"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "teaspoon",
+                "ingredient_name": "ginger&&"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "teaspoon",
+                "ingredient_name": "cloves"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Arrowroot starch",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "ingredient_name": "flour"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "ingredient_name": "cornstarch"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Baking mix",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "pancake mix"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Baking powder",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 0.25,
+                "unit": "teaspoon",
+                "ingredient_name": "baking soda&&"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "ingredient_name": "cream of tartar"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "teaspoon",
+                "ingredient_name": "baking soda&&"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "ingredient_name": "buttermilk"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Baking soda",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 4.0,
+                "unit": "teaspoons",
+                "ingredient_name": "baking powder"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "ingredient_name": "potassium bicarbonate&&"
+            },
+            {
+                "quantity": 0.3333333333333333,
+                "unit": "teaspoon",
+                "ingredient_name": "salt"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Beer",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "nonalcoholic beer"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "chicken broth"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Brandy",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 0.25,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "ingredient_name": "imitation brandy extract&&"
+            },
+            {
+                "quantity": 11.0,
+                "unit": "teaspoons",
+                "ingredient_name": "water"
+            },
+            {
+                "and": "and"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Bread crumbs",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "cracker crumbs"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "matzo meal"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "ground oats"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Broth: beef or chicken",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "bouillon",
+                "ingredient_name": "cube&&"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "boiling water"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "ingredient_name": "soy sauce&&"
+            },
+            {
+                "quantity": 0.9375,
+                "unit": "cup",
+                "ingredient_name": "water"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "vegetable broth"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Brown sugar",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "white sugar&&"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "ingredient_name": "molasses"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "white sugar"
+            },
+            {
+                "quantity": 1.25,
+                "unit": "cups",
+                "ingredient_name": "confectioners' sugar"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Butter (salted)",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "margarine"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "shortening&&"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "ingredient_name": "salt"
+            },
+            {
+                "quantity": 0.875,
+                "unit": "cup",
+                "ingredient_name": "vegetable oil&&"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "ingredient_name": "salt"
+            },
+            {
+                "quantity": 0.875,
+                "unit": "cup",
+                "ingredient_name": "lard&&"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "ingredient_name": "salt"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Butter (unsalted)",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "shortening"
+            },
+            {
+                "quantity": 0.875,
+                "unit": "cup",
+                "ingredient_name": "vegetable oil"
+            },
+            {
+                "quantity": 0.875,
+                "unit": "cup",
+                "ingredient_name": "lard"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Buttermilk",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "yogurt"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "ingredient_name": "lemon juice&&"
+            },
+            {
+                "quantity": 0.937,
+                "unit": "cup",
+                "ingredient_name": "milk"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "ingredient_name": "vinegar&&"
+            },
+            {
+                "quantity": 0.937,
+                "unit": "cup",
+                "ingredient_name": "milk"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Cheddar cheese",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "shredded colby cheddar"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "shredded monterey jack cheese"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Chervil",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "ingredient_name": "chopped fresh parsley"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Chicken base",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "canned chicken broth"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "canned chicken stock"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "homemade chicken broth"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "homemade chicken stock"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Chocolate (semisweet)",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "ounce"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "square(1-ounce)",
+                "ingredient_name": "unsweetened chocolate&&"
+            },
+            {
+                "quantity": 4.0,
+                "unit": "teaspoons",
+                "ingredient_name": "sugar"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "ounce",
+                "ingredient_name": "semisweet chocolate chips&&"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "ingredient_name": "shortening"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Chocolate (unsweetened)",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "ounce"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 3.0,
+                "unit": "tablespoons",
+                "ingredient_name": "unsweetened cocoa&&"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "ingredient_name": "shortening"
+            },
+            {
+                "quantity": 3.0,
+                "unit": "tablespoons",
+                "ingredient_name": "unsweetened cocoa&&"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "ingredient_name": "vegetable oil"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Cocoa",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 0.25,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "square(1-ounce)",
+                "ingredient_name": "unsweetened chocolate"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Condensed cream of mushroom soup",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "can(10.75-ounce)"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "can(10.75-ounce)",
+                "ingredient_name": "condensed cream of celery"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "can(10.75-ounce)",
+                "ingredient_name": "condensed cream of chicken"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "can(10.75-ounce)",
+                "ingredient_name": "condensed golden mushroom soup"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Corn syrup",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.25,
+                "unit": "cup",
+                "ingredient_name": "white sugar&&"
+            },
+            {
+                "quantity": 0.3333333333333333,
+                "unit": "cup",
+                "ingredient_name": "water"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "honey"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "light treacle syrup"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Cottage cheese",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "farmer's cheese"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "ricotta cheese"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Cracker crumbs",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "bread crumbs"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "matzo meal"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "ground oats"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Cream (half and half)",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 0.875,
+                "unit": "cup",
+                "ingredient_name": "milk&&"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "ingredient_name": "butter"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Cream (heavy)",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "evaporated milk"
+            },
+            {
+                "quantity": 0.75,
+                "unit": "cup",
+                "ingredient_name": "milk&&"
+            },
+            {
+                "quantity": 0.3333333333333333,
+                "unit": "cup",
+                "ingredient_name": "butter"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Cream (light)",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "evaporated milk"
+            },
+            {
+                "quantity": 0.75,
+                "unit": "cup",
+                "ingredient_name": "milk&&"
+            },
+            {
+                "quantity": 3.0,
+                "unit": "tablespoons",
+                "ingredient_name": "butter"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Cream (whipped)",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "frozen whipped topping thawed"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Cream of tartar",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "ingredient_name": "lemon juice"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "ingredient_name": "vinegar"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Cr\u00e8me fraiche",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "heavy cream&&"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "ingredient_name": "plain yogurt"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Egg",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "whole"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 2.5,
+                "unit": "tablespoons",
+                "ingredient_name": "powdered egg substitute&&"
+            },
+            {
+                "quantity": 2.5,
+                "unit": "tablespoons",
+                "ingredient_name": "water"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "ingredient_name": "liquid egg substitute"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "ingredient_name": "silken tofu pureed"
+            },
+            {
+                "quantity": 3.0,
+                "unit": "tablespoons",
+                "ingredient_name": "mayonnaise"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "banana",
+                "ingredient_name": "mashed&&"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "ingredient_name": "baking powder"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "ingredient_name": "powdered flax seed&&"
+            },
+            {
+                "quantity": 3.0,
+                "unit": "tablespoons",
+                "ingredient_name": "water"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Evaporated milk",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "light cream"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Farmer's cheese",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 8.0,
+                "unit": "ounces"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 8.0,
+                "unit": "ounces",
+                "ingredient_name": "dry cottage cheese"
+            },
+            {
+                "quantity": 8.0,
+                "unit": "ounces",
+                "ingredient_name": "creamed cottage cheese drained"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Fats for baking",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "applesauce"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "fruit puree"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Flour: bread",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "all-purpose flour&&"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "ingredient_name": "wheat gluten"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Flour: cake",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 0.875,
+                "unit": "cup",
+                "ingredient_name": "all-purpose flour"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Flour: self-Rising",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 0.875,
+                "unit": "cup",
+                "ingredient_name": "all-purpose flour&&"
+            },
+            {
+                "quantity": 1.5,
+                "unit": "teaspoons",
+                "ingredient_name": "baking powder&&"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "ingredient_name": "salt"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Garlic",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "clove"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 0.125,
+                "unit": "teaspoon",
+                "ingredient_name": "garlic powder"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "ingredient_name": "granulated garlic"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "ingredient_name": "garlic salt"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Gelatin",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon(granulated)"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "ingredient_name": "agar agar"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Ginger (dry)",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "ingredient_name": "chopped fresh ginger"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Ginger (fresh)",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon(minced)"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "ingredient_name": "ground dried ginger"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Green onion",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 0.5,
+                "unit": "cup(chopped)"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "ingredient_name": "chopped onion"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "ingredient_name": "chopped leek"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "ingredient_name": "chopped shallots"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Hazelnuts",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "macadamia nuts"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "almonds"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Herbs (fresh)",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon(chopped"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "ingredient_name": "dried herbs(chopped or whole leaf)"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Herring",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 8.0,
+                "unit": "ounces"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 8.0,
+                "unit": "ounces",
+                "ingredient_name": "sardines"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Honey",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.25,
+                "unit": "cup",
+                "ingredient_name": "white sugar&&"
+            },
+            {
+                "quantity": 0.3333333333333333,
+                "unit": "cup",
+                "ingredient_name": "water"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "corn syrup"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "light treacle syrup"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Hot pepper sauce",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 0.75,
+                "unit": "teaspoon",
+                "ingredient_name": "cayenne pepper&&"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "ingredient_name": "vinegar"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Lard",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "shortening"
+            },
+            {
+                "quantity": 0.875,
+                "unit": "cup",
+                "ingredient_name": "vegetable oil"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "butter"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Lemon grass",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 2.0,
+                "unit": "stalks"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "ingredient_name": "lemon zest"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Lemon juice",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "ingredient_name": "vinegar"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "ingredient_name": "white wine"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "ingredient_name": "lime juice"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Lemon zest",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "ingredient_name": "lemon extract"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "ingredient_name": "lemon juice"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Lime juice",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "ingredient_name": "vinegar"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "ingredient_name": "white wine"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "ingredient_name": "lemon juice"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Lime zest",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "ingredient_name": "lemon zest"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Macadamia nuts",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "almonds"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "hazelnuts"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Mace",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "ingredient_name": "nutmeg"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Margarine",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "shortening&&"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "ingredient_name": "salt"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "butter"
+            },
+            {
+                "quantity": 0.875,
+                "unit": "cup",
+                "ingredient_name": "vegetable oil&&"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "ingredient_name": "salt"
+            },
+            {
+                "quantity": 0.875,
+                "unit": "cup",
+                "ingredient_name": "lard&&"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "ingredient_name": "salt"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Mayonnaise",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "sour cream"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "plain yogurt"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Milk (whole)",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "soy milk"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "rice milk"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "water"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "juice"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "ingredient_name": "dry milk powder&&"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "water"
+            },
+            {
+                "quantity": 0.6666666666666666,
+                "unit": "cup",
+                "ingredient_name": "evaporated milk&&"
+            },
+            {
+                "quantity": 0.3333333333333333,
+                "unit": "cup",
+                "ingredient_name": "water"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Mint (fresh)",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 0.25,
+                "unit": "cup(chopped)"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "ingredient_name": "dried mint leaves"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Molasses",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 0.75,
+                "unit": "cup",
+                "ingredient_name": "brown sugar&&"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "ingredient_name": "cream of tartar"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Mustard: prepared",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "ingredient_name": "dried mustard&&"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "ingredient_name": "water&&"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "ingredient_name": "vinegar&&"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "ingredient_name": "sugar"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Onion",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup(chopped)"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "chopped green onions"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "chopped shallots"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "chopped leeks"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "ingredient_name": "dried minced onion"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "ingredient_name": "onion powder"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Orange juice",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "ingredient_name": "other citrus juice"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Orange zest",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "ingredient_name": "orange extract"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "ingredient_name": "lemon juice"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Parmesan cheese",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 0.5,
+                "unit": "cup(grated)"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "ingredient_name": "grated asiago cheese"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "ingredient_name": "grated romano cheese"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Parsley",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon(chopped"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "ingredient_name": "chopped fresh chervil"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "ingredient_name": "dried parsley"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Pepperoni",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "ounce"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "ounce",
+                "ingredient_name": "salami"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Raisin",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "dried currants"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "dried cranberries"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "chopped pitted prunes"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Rice: white",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup(cooked)"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "cooked barley"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "cooked bulgur"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "cooked brown"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "cooked wild rice"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Ricotta",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "dry cottage cheese"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "silken tofu"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Rum",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "ingredient_name": "rum extract&&"
+            },
+            {
+                "quantity": 0.83,
+                "unit": "tablespoon",
+                "ingredient_name": "water"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Saffron",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 0.25,
+                "unit": "teaspoon"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 0.25,
+                "unit": "teaspoon",
+                "ingredient_name": "turmeric"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Salami",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "ounce"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "ounce",
+                "ingredient_name": "pepperoni"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Semisweet chocolate chips",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "chocolate candies"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "peanut butter"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "other flavored chips"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "chopped nuts"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "chopped dried fruit"
+            },
+            {
+                "and": "and"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Shallots chopped",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 0.5,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "ingredient_name": "chopped onion"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "ingredient_name": "chopped leek"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "ingredient_name": "chopped green onion"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Shortening",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "butter"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "margarine "
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Sour cream",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "plain yogurt"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablescpoon",
+                "ingredient_name": "lemon juice&&"
+            },
+            {
+                "quantity": 0.9375,
+                "unit": "cup",
+                "ingredient_name": "cream"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablescpoon",
+                "ingredient_name": "vinegar&&"
+            },
+            {
+                "quantity": 0.9375,
+                "unit": "cup",
+                "ingredient_name": "cream"
+            },
+            {
+                "quantity": 0.75,
+                "unit": "cup",
+                "ingredient_name": "buttermilk&&"
+            },
+            {
+                "quantity": 0.3333333333333333,
+                "unit": "cup",
+                "ingredient_name": "butter"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Sour milk",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "ingredient_name": "vinegar&&"
+            },
+            {
+                "quantity": 0.9375,
+                "unit": "cup",
+                "ingredient_name": "milk"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "ingredient_name": "lemon juice&&"
+            },
+            {
+                "quantity": 0.9375,
+                "unit": "cup",
+                "ingredient_name": "milk"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Soy sauce",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 0.5,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "ingredient_name": "worcestershire sauce&&"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "ingredient_name": "water"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Stock: beef or chicken",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cube",
+                "ingredient_name": "beef bouillon&&"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "water"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cube",
+                "ingredient_name": "chicken bouillon&&"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "water"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Sweetened condensed milk",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "can(14-ounce)"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 0.75,
+                "unit": "cup",
+                "ingredient_name": "white sugar&&"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "ingredient_name": "water&&"
+            },
+            {
+                "quantity": 1.125,
+                "unit": "cups",
+                "ingredient_name": "dry powdered milk"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Vegetable oil (for baking)",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "applesauce"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "fruit puree"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Vegetable oil (for frying)",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "lard"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "vegetable shortening"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Vinegar",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "ingredient_name": "lemon juice"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "ingredient_name": "lime juice"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "ingredient_name": "white wine"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "White sugar",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "brown sugar"
+            },
+            {
+                "quantity": 1.25,
+                "unit": "cups",
+                "ingredient_name": "confectioners' sugar"
+            },
+            {
+                "quantity": 0.75,
+                "unit": "cup",
+                "ingredient_name": "honey"
+            },
+            {
+                "quantity": 0.75,
+                "unit": "cup",
+                "ingredient_name": "corn syrup"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Wine",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "chicken broth"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "beef broth"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "fruit juice&&"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "ingredient_name": "vinegar"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "water"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Yeast: active dry",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "package(0.25-ounce)"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cake",
+                "ingredient_name": "compressed yeast"
+            },
+            {
+                "quantity": 2.5,
+                "unit": "teaspoons",
+                "ingredient_name": "active dry yeast"
+            },
+            {
+                "quantity": 2.5,
+                "unit": "teaspoons",
+                "ingredient_name": "rapid rise yeast"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Yogurt",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "sour cream"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "buttermilk"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "sour milk"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    }
+]
