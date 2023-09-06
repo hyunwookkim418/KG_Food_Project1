@@ -1,0 +1,4111 @@
+[
+    {
+        "Ingredient": "Allspice",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "ingredient_name": "cinnamon&&"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "teaspoon",
+                "ingredient_name": "ginger&&"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "teaspoon",
+                "ingredient_name": "cloves"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Allspice",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "ingredient_name": "cinnamon&&"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "ingredient_name": "ground cloves"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "WhatsCookingAmerica (https://whatscookingamerica.net/information/ingredientsubstitution.htm)"
+    },
+    {
+        "Ingredient": "Apple pie spice",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "ingredient_name": "cinnamon&&"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "teaspoon",
+                "ingredient_name": "nutmeg&&"
+            },
+            {
+                "quantity": 0.125,
+                "unit": "teaspoon",
+                "ingredient_name": "ground allspice&&"
+            },
+            {
+                "quantity": 0.125,
+                "unit": "teaspoon",
+                "ingredient_name": "ground cardamom"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "ingredient_name": "cinnamon&&"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "teaspoon",
+                "ingredient_name": "nutmeg&&"
+            },
+            {
+                "quantity": 0.125,
+                "unit": "teaspoon",
+                "ingredient_name": "ground allspice&&"
+            },
+            {
+                "quantity": 0.125,
+                "unit": "teaspoon",
+                "ingredient_name": "ground ginger"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "ingredient_name": "cinnamon&&"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "teaspoon",
+                "ingredient_name": "nutmeg&&"
+            },
+            {
+                "quantity": 0.125,
+                "unit": "teaspoon",
+                "ingredient_name": "ground allspice&&"
+            },
+            {
+                "quantity": 0.125,
+                "unit": "teaspoon",
+                "ingredient_name": "ground cloves"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "WhatsCookingAmerica (https://whatscookingamerica.net/information/ingredientsubstitution.htm)"
+    },
+    {
+        "Ingredient": "Arrowroot",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.5,
+                "unit": "tsp"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.5,
+                "unit": "tsp",
+                "ingredient_name": "cornstarch"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Arrowroot starch",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "ingredient_name": "cornstarch"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "ingredient_name": "flour(to thicken)"
+            },
+            {
+                "quantity": 2.25,
+                "unit": "teaspoons",
+                "ingredient_name": "of rice starch"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "WhatsCookingAmerica (https://whatscookingamerica.net/information/ingredientsubstitution.htm)"
+    },
+    {
+        "Ingredient": "Baking powder",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "tsp"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 0.25,
+                "unit": "tsp",
+                "ingredient_name": "baking soda &&"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "ingredient_name": "sour milk"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "tsp",
+                "ingredient_name": "baking soda &&"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "ingredient_name": "buttermilk "
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Baking powder",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "tsp"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 0.25,
+                "unit": "tsp",
+                "ingredient_name": "baking soda &&"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "tsp",
+                "ingredient_name": "vinegar"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "tsp",
+                "ingredient_name": "baking soda &&"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "tsp",
+                "ingredient_name": "lemon juice"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Baking powder",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 0.25,
+                "unit": "teaspoon",
+                "ingredient_name": "baking soda&&"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "ingredient_name": "cream of tartar"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "teaspoon",
+                "ingredient_name": "baking soda&&"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "ingredient_name": "buttermilk"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Bay leaf",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "whole"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 0.25,
+                "unit": "teaspoon",
+                "ingredient_name": "crushed bay leaves"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "WhatsCookingAmerica (https://whatscookingamerica.net/information/ingredientsubstitution.htm)"
+    },
+    {
+        "Ingredient": "Beau Monde",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "tsp"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 0.5,
+                "unit": "tsp",
+                "ingredient_name": "salt"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Beau Monde",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "tsp"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 0.5,
+                "unit": "tsp",
+                "ingredient_name": "mei yen seasoning"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Beau Monde seasoning",
+        "Description": "",
+        "Amount": {
+            "quantity": 100,
+            "unit": "gr"
+        },
+        "Substitute": [
+            {
+                "quantity": 0.5,
+                "unit": "ounces",
+                "ingredient_name": "celery salt"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "ounces",
+                "ingredient_name": "onion powder"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "ounce",
+                "ingredient_name": "Bon Appetit seasoning"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "ounce",
+                "ingredient_name": "onion powder"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "ounce",
+                "ingredient_name": "celery salt"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "ounce",
+                "ingredient_name": "bouquet garni"
+            }
+        ],
+        "Image_location": "https://files.foodsubs.com/photos/Photos/beaumonde2.jpg",
+        "Source": "FoodSubs (https://foodsubs.com/groups)"
+    },
+    {
+        "Ingredient": "Beer",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "water"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "white grape juice"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "apple cider"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "apple juice"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "diluted peach"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "apricot syrups"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "WhatsCookingAmerica (https://whatscookingamerica.net/information/ingredientsubstitution.htm)"
+    },
+    {
+        "Ingredient": "Brandy",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 0.25,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "tsp",
+                "ingredient_name": "brandy extract&&"
+            },
+            {
+                "quantity": 0.229,
+                "unit": "cup",
+                "ingredient_name": "water"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "ingredient_name": "water"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "ingredient_name": "white grape juice"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "ingredient_name": "apple cider"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "ingredient_name": "apple juice"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "ingredient_name": "diluted peach syrups"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "ingredient_name": "diluted apricot syrups"
+            },
+            {
+                "and": "and"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "WhatsCookingAmerica (https://whatscookingamerica.net/information/ingredientsubstitution.htm)"
+    },
+    {
+        "Ingredient": "Bread",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "slice"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 0.75,
+                "unit": "cup",
+                "ingredient_name": "soft breadcrumbs"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Broth (beef or chicken)",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "envelope",
+                "ingredient_name": "powdered broth base dissolved in 1 cup boiling water"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Broth (beef or chicken)",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.5,
+                "unit": "tsp",
+                "ingredient_name": "powdered broth base dissolved in 1 cup boiling water"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Butter",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 0.875,
+                "unit": "cup",
+                "ingredient_name": "lard &&"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "tsp",
+                "ingredient_name": "salt"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Butter",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "margarine"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Butter",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "hydrogenated fat (shortening)&&"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "ingredient_name": "salt"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "ingredient_name": "salt"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "ingredient_name": "salt"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "WhatsCookingAmerica (https://whatscookingamerica.net/information/ingredientsubstitution.htm)"
+    },
+    {
+        "Ingredient": "Buttermilk (sour milk)",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "whole or skim milk &&"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tbsp",
+                "ingredient_name": "lemon juice"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "whole or skim milk &&"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tbsp",
+                "ingredient_name": "white vinegar"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Buttermilk (sour milk)",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "milk &&"
+            },
+            {
+                "quantity": 1.75,
+                "unit": "tsp",
+                "ingredient_name": "cream of tartar"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Buttermilk (sour milk)",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "milk&&"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoons",
+                "ingredient_name": "vinegar (white or cider)"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "milk&&"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoons",
+                "ingredient_name": "lemon juice"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "milk&&"
+            },
+            {
+                "quantity": 1.75,
+                "unit": "teaspoons",
+                "ingredient_name": "cream of tartar"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoons",
+                "ingredient_name": "vinegar (white or cider)"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "mild-flavored soy milk&&"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoons",
+                "ingredient_name": "lemon juice"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "plain yogurt"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "low fat yogurt"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "sour cream"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "water&&"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "ingredient_name": "buttermilk powder"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "WhatsCookingAmerica (https://whatscookingamerica.net/information/ingredientsubstitution.htm)"
+    },
+    {
+        "Ingredient": "Chicken stock base instant",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "tbsp(dissolved"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "canned chicken broth"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "homemade chicken broth"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "homemade chicken stock"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "WhatsCookingAmerica (https://whatscookingamerica.net/information/ingredientsubstitution.htm)"
+    },
+    {
+        "Ingredient": "Chili sauce",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "catsup &&"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "tsp",
+                "ingredient_name": "cinnamon &&"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "dash",
+                "ingredient_name": "ground cloves &&"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "dash",
+                "ingredient_name": "allspice"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Chili sauce",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "tomato sauce&&"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "ingredient_name": "brown sugar&&"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tbsp",
+                "ingredient_name": "vinegar&&"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "tsp",
+                "ingredient_name": "cinnamon&&"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "dash",
+                "ingredient_name": "of ground cloves&&"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "dash",
+                "ingredient_name": "allspice"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "WhatsCookingAmerica (https://whatscookingamerica.net/information/ingredientsubstitution.htm)"
+    },
+    {
+        "Ingredient": "Chives finely chopped",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "ingredient_name": "finely chopped green onion tops"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "WhatsCookingAmerica (https://whatscookingamerica.net/information/ingredientsubstitution.htm)"
+    },
+    {
+        "Ingredient": "Chocolate semisweet",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 6.0,
+                "unit": "oz"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": ""
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Chocolate unsweetened",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "ounce"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 3.0,
+                "unit": "tablespoons",
+                "ingredient_name": "cocoa powder&&"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "ingredient_name": "butter"
+            },
+            {
+                "quantity": 3.0,
+                "unit": "tablespoons",
+                "ingredient_name": "cocoa powder&&"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "ingredient_name": "margarine"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "ingredient_name": "water"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "WhatsCookingAmerica (https://whatscookingamerica.net/information/ingredientsubstitution.htm)"
+    },
+    {
+        "Ingredient": "Cocoa",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 0.25,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "square(1-ounce)",
+                "ingredient_name": "unsweetened chocolate"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Condensed cream of mushroom soup",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "can(10.75-ounce)"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "can(10.75",
+                "ingredient_name": "ounce) condensed cream of celery"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "can(10.75",
+                "ingredient_name": "ounce) condensed cream of chicken"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "can(10.75",
+                "ingredient_name": "ounce) condensed golden mushroom soup"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "WhatsCookingAmerica (https://whatscookingamerica.net/information/ingredientsubstitution.htm)"
+    },
+    {
+        "Ingredient": "Corn syrup",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 0.875,
+                "unit": "cup",
+                "ingredient_name": "honey "
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Corn syrup",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.25,
+                "unit": "cup",
+                "ingredient_name": "white sugar&&"
+            },
+            {
+                "quantity": 0.3333333333333333,
+                "unit": "cup",
+                "ingredient_name": "water"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "honey"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "light treacle syrup"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Corn syrup",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "granulated sugar&&"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "liquid",
+                "ingredient_name": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "honey"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "light corn syrup"
+            },
+            {
+                "quantity": 0.75,
+                "unit": "cup",
+                "ingredient_name": "light corn syrup&&"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "ingredient_name": "molasses"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "maple-flavored syrup"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "WhatsCookingAmerica (https://whatscookingamerica.net/information/ingredientsubstitution.htm)"
+    },
+    {
+        "Ingredient": "Cornmeal self-rising",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 0.875,
+                "unit": "cup",
+                "ingredient_name": "plain&&"
+            },
+            {
+                "quantity": 1.5,
+                "unit": "tablespoons",
+                "ingredient_name": "baking powder&&"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "ingredient_name": "salt"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "WhatsCookingAmerica (https://whatscookingamerica.net/information/ingredientsubstitution.htm)"
+    },
+    {
+        "Ingredient": "Cornstarch (for thickening)",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "tbsp"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 2.0,
+                "unit": "tbsp",
+                "ingredient_name": "granular tapioca"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Cornstarch (for thickening)",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 2.0,
+                "unit": "tablespoon",
+                "ingredient_name": "all-purpose flour"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoon",
+                "ingredient_name": "granulated tapioca"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "ingredient_name": "potato starch"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "ingredient_name": "rice starch"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "ingredient_name": "arrowroot"
+            },
+            {
+                "quantity": 4.0,
+                "unit": "teaspoon",
+                "ingredient_name": "instant tapioca"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "WhatsCookingAmerica (https://whatscookingamerica.net/information/ingredientsubstitution.htm)"
+    },
+    {
+        "Ingredient": "Cottage cheese",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "farmer's cheese"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "ricotta cheese"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "WhatsCookingAmerica (https://whatscookingamerica.net/information/ingredientsubstitution.htm)"
+    },
+    {
+        "Ingredient": "Cracker crumbs",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "bread crumbs"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "matzo meal"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "ground oats"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Cracker crumbs",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "dry bread crumbs"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "ground oats"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "matzo meal"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "WhatsCookingAmerica (https://whatscookingamerica.net/information/ingredientsubstitution.htm)"
+    },
+    {
+        "Ingredient": "Cream heavy\n(36% to 40% fat)",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 2.5,
+                "unit": "cup",
+                "ingredient_name": "whipped"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Cream light\n(18% to 20% fat)",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "evaporated milk undiluted"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Cream of tartar",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "ingredient_name": "lemon juice"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "ingredient_name": "vinegar"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "WhatsCookingAmerica (https://whatscookingamerica.net/information/ingredientsubstitution.htm)"
+    },
+    {
+        "Ingredient": "Cream whipped",
+        "Description": " ",
+        "Amount": [],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "can(13",
+                "ingredient_name": "ounce) evaporated milk&&"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "ingredient_name": "lemon juice"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "ingredient_name": "ice-cold water&&"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "ingredient_name": "nonfat dry milk&&"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "ingredient_name": "sugar&&"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "ingredient_name": "lemon juice"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "frozen whipped topping thawed"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "WhatsCookingAmerica (https://whatscookingamerica.net/information/ingredientsubstitution.htm)"
+    },
+    {
+        "Ingredient": "Dill plant fresh or dried",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 3.0,
+                "unit": "heads"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "tablespoons",
+                "ingredient_name": "dill seed"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "WhatsCookingAmerica (https://whatscookingamerica.net/information/ingredientsubstitution.htm)"
+    },
+    {
+        "Ingredient": "Egg",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 3.0,
+                "unit": "tablespoons"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 3.0,
+                "unit": "tablespoons",
+                "ingredient_name": "thawed frozen egg&&"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "ingredient_name": "thawed frozen egg"
+            },
+            {
+                "quantity": 2.5,
+                "unit": "tablespoons",
+                "ingredient_name": "warm water"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "yolks&&",
+                "ingredient_name": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "ingredient_name": "water(in cookies)"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "yolks(in",
+                "ingredient_name": "custards"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "ingredient_name": "baking powder&&"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "ingredient_name": "vinegar&&"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "ingredient_name": "liquid(in baking)"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "egg",
+                "ingredient_name": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "ingredient_name": "unflavored gelatin in 3 tablespoons cold water&&"
+            },
+            {
+                "quantity": 3.0,
+                "unit": "teaspoons",
+                "ingredient_name": "boiling water"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "ingredient_name": "commercial egg substitute"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "WhatsCookingAmerica (https://whatscookingamerica.net/information/ingredientsubstitution.htm)"
+    },
+    {
+        "Ingredient": "Egg white",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "large"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 2.0,
+                "unit": "tbsp",
+                "ingredient_name": "sifted dry egg white powder &&"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tbsp",
+                "ingredient_name": "lukewarm water"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Egg white",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 8.0,
+                "unit": "large",
+                "ingredient_name": "egg whites"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Egg white",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "ingredient_name": "thawed frozen egg white"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "ingredient_name": "sifted dry egg white powder&&"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "ingredient_name": "lukewarm water"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "WhatsCookingAmerica (https://whatscookingamerica.net/information/ingredientsubstitution.htm)"
+    },
+    {
+        "Ingredient": "Egg whole uncooked",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "large"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 2.5,
+                "unit": "tbsp",
+                "ingredient_name": "sifted dry whole egg powder &&"
+            },
+            {
+                "quantity": 2.5,
+                "unit": "tbsp",
+                "ingredient_name": "lukewarm water"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Egg whole uncooked",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "large"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 2.0,
+                "unit": "yolks",
+                "ingredient_name": "&&"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tbsp",
+                "ingredient_name": "water (in cookies)"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Egg whole uncooked",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "large"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 2.0,
+                "unit": "yolks",
+                "ingredient_name": "(in custards"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Egg whole uncooked",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "large"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 2.0,
+                "unit": "whites",
+                "ingredient_name": "as a thickening agent"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Egg yolk",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "yolk"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 2.0,
+                "unit": "tbsp",
+                "ingredient_name": "sifted dry egg yolk"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Egg yolk",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 12.0,
+                "unit": "large",
+                "ingredient_name": "egg yolks"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Egg yolk",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.5,
+                "unit": "tablespoons"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "ingredient_name": "sifted dry egg yolk powder&&"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "ingredient_name": "water"
+            },
+            {
+                "quantity": 1.33,
+                "unit": "tablespoons",
+                "ingredient_name": "thawed frozen egg yolk"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "WhatsCookingAmerica (https://whatscookingamerica.net/information/ingredientsubstitution.htm)"
+    },
+    {
+        "Ingredient": "Eggs uncooked",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 6.0,
+                "unit": "medium",
+                "ingredient_name": "eggs"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Flour all-purpose",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "rolled oats crushed"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Flour all-purpose",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "ingredient_name": "cornmeal flour &&"
+            },
+            {
+                "quantity": 0.6666666666666666,
+                "unit": "cup",
+                "ingredient_name": "all-purpose flour"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "ingredient_name": "soybean flour &&"
+            },
+            {
+                "quantity": 0.6666666666666666,
+                "unit": "cup",
+                "ingredient_name": "all-purpose flour"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Flour all-purpose",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "ingredient_name": "cornmeal flour &&"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "ingredient_name": "all-purpose flour"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "ingredient_name": "bran flour &&"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "ingredient_name": "all-purpose flour"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "ingredient_name": "rice flour &&"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "ingredient_name": "all-purpose flour"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "ingredient_name": "whole wheat flour &&"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "ingredient_name": "all-purpose flour"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Flour all-purpose",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 0.75,
+                "unit": "cup",
+                "ingredient_name": "whole wheat flour &&"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "ingredient_name": "all-purpose flour"
+            },
+            {
+                "quantity": 0.75,
+                "unit": "cup",
+                "ingredient_name": "bran flour &&"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "ingredient_name": "all-purpose flour"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Flour all-purpose",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "rye flour"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "rice flour"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Flour all-purpose",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "ingredient_name": "soybean flour &&"
+            },
+            {
+                "quantity": 0.75,
+                "unit": "cup",
+                "ingredient_name": "all-purpose flour"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Flour all-purpose",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "lb"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 4.0,
+                "unit": "cups",
+                "ingredient_name": "sifted"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Flour all-purpose",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "lb"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 3.33,
+                "unit": "cups",
+                "ingredient_name": "unsifted"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Flour all-purpose (for thickening)",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "tbsp"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "tbsp",
+                "ingredient_name": "granular tapioca"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Flour all-purpose (for thickening)",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "tbsp"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "tbsp",
+                "ingredient_name": "waxy rice flour"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Flour all-purpose (for thickening)",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "tbsp"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 2.0,
+                "unit": "tbsp",
+                "ingredient_name": "browned flour"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Flour all-purpose (for thickening)",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "tbsp"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.5,
+                "unit": "tbsp",
+                "ingredient_name": "whole wheat flour"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Flour all-purpose (for thickening)",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "tbsp"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 0.5,
+                "unit": "tbsp",
+                "ingredient_name": "whole wheat flour &&"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "tbsp",
+                "ingredient_name": "all-purpose flour"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Flour all-purpose (for thickening)",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "tbsp"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "tbsp",
+                "ingredient_name": "quick-cooking tapioca"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Flour all-purpose (for thickening)",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.5,
+                "unit": "teaspoon",
+                "ingredient_name": "cornstarch"
+            },
+            {
+                "quantity": 1.5,
+                "unit": "teaspoon",
+                "ingredient_name": "arrowroot starch"
+            },
+            {
+                "quantity": 1.5,
+                "unit": "teaspoon",
+                "ingredient_name": "potato starch"
+            },
+            {
+                "quantity": 1.5,
+                "unit": "teaspoon",
+                "ingredient_name": "rice starch"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "ingredient_name": "granular tapioca"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "ingredient_name": "waxy rice flour"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "ingredient_name": "waxy corn flour"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "ingredient_name": "browned flour"
+            },
+            {
+                "quantity": 1.5,
+                "unit": "teaspoon",
+                "ingredient_name": "whole wheat flour&&"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "ingredient_name": "all purpose flour"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "WhatsCookingAmerica (https://whatscookingamerica.net/information/ingredientsubstitution.htm)"
+    },
+    {
+        "Ingredient": "Flour cake",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 0.875,
+                "unit": "cup",
+                "ingredient_name": "sifted all-purpose flour"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Flour cake",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup(sifted)"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 0.875,
+                "unit": "cup",
+                "ingredient_name": "sifted all-purpose flour"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "WhatsCookingAmerica (https://whatscookingamerica.net/information/ingredientsubstitution.htm)"
+    },
+    {
+        "Ingredient": "Flour self-rising",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 0.875,
+                "unit": "cup",
+                "ingredient_name": "all-purpose flour&&"
+            },
+            {
+                "quantity": 1.5,
+                "unit": "tsp",
+                "ingredient_name": "baking powder&&"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "tsp",
+                "ingredient_name": "salt"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "WhatsCookingAmerica (https://whatscookingamerica.net/information/ingredientsubstitution.htm)"
+    },
+    {
+        "Ingredient": "Garlic",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "clove"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 0.125,
+                "unit": "teaspoon",
+                "ingredient_name": "garlic powder"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "ingredient_name": "granulated garlic"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "ingredient_name": "garlic salt"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Garlic",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "clove(small)"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 0.125,
+                "unit": "teaspoon",
+                "ingredient_name": "garlic powder"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "teaspoon",
+                "ingredient_name": "instant minced garlic"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "ingredient_name": "granulated garlic"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "ingredient_name": "garlic salt"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "WhatsCookingAmerica (https://whatscookingamerica.net/information/ingredientsubstitution.htm)"
+    },
+    {
+        "Ingredient": "Gelatin flavored",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "package(3"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "ingredient_name": "plain gelatin&&"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "cups",
+                "ingredient_name": "fruit juice"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "WhatsCookingAmerica (https://whatscookingamerica.net/information/ingredientsubstitution.htm)"
+    },
+    {
+        "Ingredient": "Ginger",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 0.125,
+                "unit": "tsp"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "tbsp",
+                "ingredient_name": "raw ginger"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Herbs fresh",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon(finely"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "ingredient_name": "dried ground herbs"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "ingredient_name": "dried crumbled herbs"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "WhatsCookingAmerica (https://whatscookingamerica.net/information/ingredientsubstitution.htm)"
+    },
+    {
+        "Ingredient": "Herring",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 8.0,
+                "unit": "ounces"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 8.0,
+                "unit": "ounces",
+                "ingredient_name": "sardines"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "WhatsCookingAmerica (https://whatscookingamerica.net/information/ingredientsubstitution.htm)"
+    },
+    {
+        "Ingredient": "Honey",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.25,
+                "unit": "cup",
+                "ingredient_name": "white sugar&&"
+            },
+            {
+                "quantity": 0.3333333333333333,
+                "unit": "cup",
+                "ingredient_name": "water"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "corn syrup"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "light treacle syrup"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Honey",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.25,
+                "unit": "cup",
+                "ingredient_name": "granulated sugar&&"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "ingredient_name": "liquid"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "light molasses"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "light corn syrup"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "dark corn syrup"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "light treacle syrup"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "maple syrup"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "WhatsCookingAmerica (https://whatscookingamerica.net/information/ingredientsubstitution.htm)"
+    },
+    {
+        "Ingredient": "Horseradish",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon(fresh)"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "ingredient_name": "bottled"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "WhatsCookingAmerica (https://whatscookingamerica.net/information/ingredientsubstitution.htm)"
+    },
+    {
+        "Ingredient": "Hot pepper sauce",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 0.75,
+                "unit": "teaspoon",
+                "ingredient_name": "cayenne pepper&&"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "ingredient_name": "vinegar"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "WhatsCookingAmerica (https://whatscookingamerica.net/information/ingredientsubstitution.htm)"
+    },
+    {
+        "Ingredient": "Lemon grass",
+        "Description": " ",
+        "Amount": [],
+        "Substitute": [],
+        "Image_location": " ",
+        "Source": "WhatsCookingAmerica (https://whatscookingamerica.net/information/ingredientsubstitution.htm)"
+    },
+    {
+        "Ingredient": "Lemon juice",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "ingredient_name": "vinegar"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "ingredient_name": "white wine"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "ingredient_name": "lime juice"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "allrecipes (https://www.allrecipes.com/article/common-ingredient-substitutions/)"
+    },
+    {
+        "Ingredient": "Lemon peel dried",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "tsp"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "medium",
+                "ingredient_name": "lemon grated peel"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Lemon peel dried",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "tsp"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 0.5,
+                "unit": "tsp",
+                "ingredient_name": "lemon extract"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Lemon peel dried",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "ingredient_name": "grated fresh lemon peel(zest)"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "medium",
+                "ingredient_name": "lemon(grated peel)"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "ingredient_name": "lemon extract"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "WhatsCookingAmerica (https://whatscookingamerica.net/information/ingredientsubstitution.htm)"
+    },
+    {
+        "Ingredient": "Maple sugar (grated &&, packed)",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "tbsp"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "tbsp",
+                "ingredient_name": "white granulated sugar"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Marshmallows miniature",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 10.0,
+                "unit": "large",
+                "ingredient_name": "marshmallows"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "WhatsCookingAmerica (https://whatscookingamerica.net/information/ingredientsubstitution.htm)"
+    },
+    {
+        "Ingredient": "Mayonnaise (for salad dressings)",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "sour cream"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Mayonnaise (for salad dressings)",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "cottage cheese pureed in a blender"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Mei Yen seasoning",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "tsp"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 0.5,
+                "unit": "tsp",
+                "ingredient_name": "salt"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Milk buttermilk (or sour)",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 0.9375,
+                "unit": "cup",
+                "ingredient_name": "sweet milk &&"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tbsp",
+                "ingredient_name": "lemon juice"
+            },
+            {
+                "quantity": 0.9375,
+                "unit": "cup",
+                "ingredient_name": "sweet milk &&"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tbsp",
+                "ingredient_name": "vinegar"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Milk buttermilk (or sour)",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "sweet milk &&"
+            },
+            {
+                "quantity": 1.75,
+                "unit": "tsp",
+                "ingredient_name": "cream of tartar"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Milk skim",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "ingredient_name": "evaporated milk &&"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "ingredient_name": "water"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Milk skim",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 5.0,
+                "unit": "tablespoons",
+                "ingredient_name": "non-fat dry milk powder&&"
+            },
+            {
+                "quantity": 0.6875,
+                "unit": "cup",
+                "ingredient_name": "water"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "WhatsCookingAmerica (https://whatscookingamerica.net/information/ingredientsubstitution.htm)"
+    },
+    {
+        "Ingredient": "Milk skim",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 0.25,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 4.0,
+                "unit": "teaspoons",
+                "ingredient_name": "non-fat dry milk powder&&"
+            },
+            {
+                "quantity": 0.166,
+                "unit": "water",
+                "ingredient_name": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "ingredient_name": "evaporated skim milk&&"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "ingredient_name": "water"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "WhatsCookingAmerica (https://whatscookingamerica.net/information/ingredientsubstitution.htm)"
+    },
+    {
+        "Ingredient": "Milk sweetened condensed",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "can"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.125,
+                "unit": "cup",
+                "ingredient_name": "dry milk &&"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "ingredient_name": "warm water &&"
+            },
+            {
+                "quantity": 0.75,
+                "unit": "cup",
+                "ingredient_name": "sugar &&"
+            },
+            {
+                "quantity": 3.0,
+                "unit": "tbsp",
+                "ingredient_name": "melted butter"
+            },
+            {
+                "quantity": 1.125,
+                "unit": "cup",
+                "ingredient_name": "dry milk &&"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "ingredient_name": "warm water &&"
+            },
+            {
+                "quantity": 0.75,
+                "unit": "cup",
+                "ingredient_name": "sugar &&"
+            },
+            {
+                "quantity": 3.0,
+                "unit": "tbsp",
+                "ingredient_name": "melted margarine"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Milk sweetened condensed",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "can(about"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 0.458,
+                "unit": "cup",
+                "ingredient_name": "evaporated milk"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "sugar"
+            },
+            {
+                "quantity": 3.0,
+                "unit": "tablespoons",
+                "ingredient_name": "butter"
+            },
+            {
+                "quantity": 3.0,
+                "unit": "tablespoons",
+                "ingredient_name": "margarine"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "WhatsCookingAmerica (https://whatscookingamerica.net/information/ingredientsubstitution.htm)"
+    },
+    {
+        "Ingredient": "Milk whole",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "ingredient_name": "evaporated milk &&"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "ingredient_name": "water"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Milk whole",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 4.0,
+                "unit": "tbsp",
+                "ingredient_name": "whole dry milk &&"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "water"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Milk whole",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "fruit juice (for use in baking)"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "potato water (for use in baking)"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Milk whole",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "reconstituted non-fat dry milk&&"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tsp",
+                "ingredient_name": "butter"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "reconstituted non-fat dry milk&&"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tsp",
+                "ingredient_name": "margarine"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "ingredient_name": "evaporated milk&&"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "ingredient_name": "water"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "ingredient_name": "condensed milk&&"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "ingredient_name": "water"
+            },
+            {
+                "quantity": 4.0,
+                "unit": "tablespoons",
+                "ingredient_name": "whole dry milk&&"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "water"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "fruit juice"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "potato water(for use in baking)"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "ingredient_name": "non-fat dry milk&&"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tsp",
+                "ingredient_name": "butter&&"
+            },
+            {
+                "quantity": 0.875,
+                "unit": "cup",
+                "ingredient_name": "water"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "ingredient_name": "non-fat dry milk&&"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tsp",
+                "ingredient_name": "margarine&&"
+            },
+            {
+                "quantity": 0.875,
+                "unit": "cup",
+                "ingredient_name": "water"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "soy milk"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "almond milk"
+            },
+            {
+                "quantity": 1.5,
+                "unit": "tsp",
+                "ingredient_name": "butter in baking"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "buttermilk&&"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "tsp",
+                "ingredient_name": "baking soda"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "WhatsCookingAmerica (https://whatscookingamerica.net/information/ingredientsubstitution.htm)"
+    },
+    {
+        "Ingredient": "Molasses",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "honey"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "dark corn syrup"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "maple syrup"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "brown rice syrup"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "barley malt syrup"
+            },
+            {
+                "quantity": 0.75,
+                "unit": "cup",
+                "ingredient_name": "sugar&&"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "ingredient_name": "baking powder to recipe"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "WhatsCookingAmerica (https://whatscookingamerica.net/information/ingredientsubstitution.htm)"
+    },
+    {
+        "Ingredient": "Mushrooms canned",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 4.0,
+                "unit": "oz"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 6.0,
+                "unit": "tbsp",
+                "ingredient_name": "whole dried mushrooms"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Mushrooms fresh",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "lb"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 3.0,
+                "unit": "oz",
+                "ingredient_name": "dried mushrooms"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Mushrooms fresh",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "lb"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 5.0,
+                "unit": "cup",
+                "ingredient_name": "sliced mushrooms"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Mushrooms fresh",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "lb"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 10.0,
+                "unit": "oz",
+                "ingredient_name": "can"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Mushrooms fresh",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "pound"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 3.0,
+                "unit": "ounces",
+                "ingredient_name": "dried mushrooms&&"
+            },
+            {
+                "quantity": 1.5,
+                "unit": "cups",
+                "ingredient_name": "water"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "can",
+                "ingredient_name": " (10-ounce)"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "WhatsCookingAmerica (https://whatscookingamerica.net/information/ingredientsubstitution.htm)"
+    },
+    {
+        "Ingredient": "Mustard dry",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "ingredient_name": "prepared mustard"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "ingredient_name": "mustard seeds"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "WhatsCookingAmerica (https://whatscookingamerica.net/information/ingredientsubstitution.htm)"
+    },
+    {
+        "Ingredient": "Onion",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "small"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "ingredient_name": "chopped fresh green onions"
+            },
+            {
+                "quantity": 1.33,
+                "unit": "teaspoons",
+                "ingredient_name": "onion salt"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "ingredient_name": "instant minced onion"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "ingredient_name": "onion powder"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "ingredient_name": "dried minced onion"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "WhatsCookingAmerica (https://whatscookingamerica.net/information/ingredientsubstitution.htm)"
+    },
+    {
+        "Ingredient": "Onion fresh",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "small"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "tbsp",
+                "ingredient_name": "instant minced onion"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "WhatsCookingAmerica (https://whatscookingamerica.net/information/ingredientsubstitution.htm)"
+    },
+    {
+        "Ingredient": "Onion powder",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "tbsp"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 4.0,
+                "unit": "tbsp",
+                "ingredient_name": "fresh chopped onion"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Onions",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "lb"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 2.5,
+                "unit": "cup",
+                "ingredient_name": "chopped"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Orange peel dried",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "tbsp"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "medium",
+                "ingredient_name": "orange grated peel"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Orange peel dried",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 2.0,
+                "unit": "tsp"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "tsp",
+                "ingredient_name": "orange extract"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Peppermint dried",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "ingredient_name": "chopped fresh mint"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "WhatsCookingAmerica (https://whatscookingamerica.net/information/ingredientsubstitution.htm)"
+    },
+    {
+        "Ingredient": "Peppers green bell",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon(dried)"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 3.0,
+                "unit": "tablespoons",
+                "ingredient_name": "fresh green pepper chopped"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "WhatsCookingAmerica (https://whatscookingamerica.net/information/ingredientsubstitution.htm)"
+    },
+    {
+        "Ingredient": "Peppers red bell",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "tbsp"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 2.0,
+                "unit": "tbsp",
+                "ingredient_name": "chopped pimiento"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Peppers red bell",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon(dried)"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 3.0,
+                "unit": "tablespoons",
+                "ingredient_name": "fresh red bell pepper chopped"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "ingredient_name": "chopped pimento"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "WhatsCookingAmerica (https://whatscookingamerica.net/information/ingredientsubstitution.htm)"
+    },
+    {
+        "Ingredient": "Pimiento",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 2.0,
+                "unit": "tbsp"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 3.0,
+                "unit": "tbsp",
+                "ingredient_name": "fresh red bell pepper chopped"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Pumpkin pie spice",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "ingredient_name": "cinnamon&&"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "teaspoon",
+                "ingredient_name": "ginger&&"
+            },
+            {
+                "quantity": 0.125,
+                "unit": "teaspoon",
+                "ingredient_name": "allspice&&"
+            },
+            {
+                "quantity": 0.125,
+                "unit": "teaspoon",
+                "ingredient_name": "nutmeg"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "WhatsCookingAmerica (https://whatscookingamerica.net/information/ingredientsubstitution.htm)"
+    },
+    {
+        "Ingredient": "Rennet",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "tablet"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "ingredient_name": "liquid rennet"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "WhatsCookingAmerica (https://whatscookingamerica.net/information/ingredientsubstitution.htm)"
+    },
+    {
+        "Ingredient": "Rum",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 0.25,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "ingredient_name": "rum extract&&"
+            },
+            {
+                "quantity": 0.1875,
+                "unit": "cup",
+                "ingredient_name": "liquid"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "WhatsCookingAmerica (https://whatscookingamerica.net/information/ingredientsubstitution.htm)"
+    },
+    {
+        "Ingredient": "Saffron",
+        "Description": " ",
+        "Amount": [],
+        "Substitute": [],
+        "Image_location": " ",
+        "Source": "WhatsCookingAmerica (https://whatscookingamerica.net/information/ingredientsubstitution.htm)"
+    },
+    {
+        "Ingredient": "Shortening melted",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "cooking oil(cooking oil should not be substituted if recipe does not call for melted shortening)"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "WhatsCookingAmerica (https://whatscookingamerica.net/information/ingredientsubstitution.htm)"
+    },
+    {
+        "Ingredient": "Shortening solid (used in baking)",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.125,
+                "unit": "cups",
+                "ingredient_name": "butter"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Shortening solid (used in baking)",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 0.875,
+                "unit": "tablespoons",
+                "ingredient_name": "lard"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "butter"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "margarine"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "WhatsCookingAmerica (https://whatscookingamerica.net/information/ingredientsubstitution.htm)"
+    },
+    {
+        "Ingredient": "Sour cream cultured",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 0.3333333333333333,
+                "unit": "cup",
+                "ingredient_name": "buttermilk &&"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tbsp",
+                "ingredient_name": "lemon juice &&"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "cottage cheese"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Sour cream cultured",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "plain yogurt"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Sour cream cultured",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 0.75,
+                "unit": "cup",
+                "ingredient_name": "milk &&"
+            },
+            {
+                "quantity": 0.75,
+                "unit": "tsp",
+                "ingredient_name": "lemon juice &&"
+            },
+            {
+                "quantity": 0.3333333333333333,
+                "unit": "cup",
+                "ingredient_name": "butter"
+            },
+            {
+                "quantity": 0.75,
+                "unit": "cup",
+                "ingredient_name": "milk &&"
+            },
+            {
+                "quantity": 0.75,
+                "unit": "tsp",
+                "ingredient_name": "lemon juice &&"
+            },
+            {
+                "quantity": 0.3333333333333333,
+                "unit": "cup",
+                "ingredient_name": "margarine"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Sour cream cultured",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 0.75,
+                "unit": "cup",
+                "ingredient_name": "sour milk"
+            },
+            {
+                "quantity": 0.3333333333333333,
+                "unit": "cup",
+                "ingredient_name": "butter"
+            },
+            {
+                "quantity": 0.75,
+                "unit": "cup",
+                "ingredient_name": "sour milk"
+            },
+            {
+                "quantity": 0.3333333333333333,
+                "unit": "cup",
+                "ingredient_name": "margarine"
+            },
+            {
+                "quantity": 0.75,
+                "unit": "cup",
+                "ingredient_name": "buttermilk"
+            },
+            {
+                "quantity": 0.3333333333333333,
+                "unit": "cup",
+                "ingredient_name": "butter"
+            },
+            {
+                "quantity": 0.75,
+                "unit": "cup",
+                "ingredient_name": "buttermilk"
+            },
+            {
+                "quantity": 0.3333333333333333,
+                "unit": "cup",
+                "ingredient_name": "margarine"
+            },
+            {
+                "quantity": 0.3333333333333333,
+                "unit": "cup",
+                "ingredient_name": "buttermilk&&"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tbsp",
+                "ingredient_name": "lemon juice&&"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "cottage cheese"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "plain yogurt"
+            },
+            {
+                "quantity": 0.75,
+                "unit": "cup",
+                "ingredient_name": "milk&&"
+            },
+            {
+                "quantity": 0.75,
+                "unit": "tsp",
+                "ingredient_name": "lemon juice&&"
+            },
+            {
+                "quantity": 0.3333333333333333,
+                "unit": "cup",
+                "ingredient_name": "butter"
+            },
+            {
+                "quantity": 0.75,
+                "unit": "cup",
+                "ingredient_name": "milk&&"
+            },
+            {
+                "quantity": 0.75,
+                "unit": "tsp",
+                "ingredient_name": "lemon juice&&"
+            },
+            {
+                "quantity": 0.3333333333333333,
+                "unit": "cup",
+                "ingredient_name": "margarine"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "WhatsCookingAmerica (https://whatscookingamerica.net/information/ingredientsubstitution.htm)"
+    },
+    {
+        "Ingredient": "Spearmint dried",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "ingredient_name": "chopped fresh mint"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "WhatsCookingAmerica (https://whatscookingamerica.net/information/ingredientsubstitution.htm)"
+    },
+    {
+        "Ingredient": "Sugar brown",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "lb"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 2.25,
+                "unit": "cups",
+                "ingredient_name": "firmly packed sugar brown"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Sugar granulated",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "tsp"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 0.125,
+                "unit": "tsp",
+                "ingredient_name": "noncaloric sweetener solution"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Sugar granulated",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.5,
+                "unit": "cups",
+                "ingredient_name": "corn syrup"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Sugar granulated",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.33,
+                "unit": "cups",
+                "ingredient_name": "molasses"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Sugar granulated",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "powdered sugar"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Sugar granulated",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "brown sugar firmly packed"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Sugar granulated",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 0.75,
+                "unit": "cup",
+                "ingredient_name": "honey "
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Worcestershire sauce",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "ingredient_name": "bottled steak sauce"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "WhatsCookingAmerica (https://whatscookingamerica.net/information/ingredientsubstitution.htm)"
+    },
+    {
+        "Ingredient": "Worcestershire sauce",
+        "Description": "Health foods sell a vegetarian version of this. To make your own: See the recipe for Worcestershire Sauce posted on RecipeSource.com.",
+        "Amount": {
+            "quantity": 100,
+            "unit": "gr"
+        },
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "ounce",
+                "ingredient_name": "fish sauce"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "ounce",
+                "ingredient_name": "soy sauce"
+            }
+        ],
+        "Image_location": "https://files.foodsubs.com/photos/GNI0pLYgK8Yh9l25",
+        "Source": "FoodSubs (https://foodsubs.com/groups)"
+    },
+    {
+        "Ingredient": "Yogurt plain",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "cottage cheese blended until smooth"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Yogurt plain",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "sour cream"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "theSpruceEats (https://www.thespruceeats.com/ingredient-substitution-chart-3054056)"
+    },
+    {
+        "Ingredient": "Yogurt plain",
+        "Description": " ",
+        "Amount": [
+            {
+                "quantity": 1.0,
+                "unit": "cup"
+            }
+        ],
+        "Substitute": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "buttermilk"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "cottage cheese blended until smooth"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "ingredient_name": "sour cream"
+            }
+        ],
+        "Image_location": " ",
+        "Source": "WhatsCookingAmerica (https://whatscookingamerica.net/information/ingredientsubstitution.htm)"
+    }
+]
